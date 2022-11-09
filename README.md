@@ -3,19 +3,19 @@
 <br>
 
 <p align="center">
-  <img width="600" src="https://github.com/MonkHelios/Decapping-4N35-Optocoupler/blob/main/Images/gel.jpg">
+  <img width="700" src="https://github.com/MonkHelios/Decapping-4N35-Optocoupler/blob/main/Images/gel.jpg">
 </p>
 
 <br>
 
 <p align="center">
-  <img width="600" src="https://github.com/MonkHelios/Decapping-4N35-Optocoupler/blob/main/Images/collage%202.jpg">
+  <img width="700" src="https://github.com/MonkHelios/Decapping-4N35-Optocoupler/blob/main/Images/collage%202.jpg">
 </p>
 
 <br>
 
 <p align="center">
-  <img width="600" src="https://github.com/MonkHelios/Decapping-4N35-Optocoupler/blob/main/Images/label.jpg">
+  <img width="700" src="https://github.com/MonkHelios/Decapping-4N35-Optocoupler/blob/main/Images/label.jpg">
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img width="600" src="https://github.com/MonkHelios/Decapping-4N35-Optocoupler/blob/main/Images/red_laser.jpg">
+  <img width="700" src="https://github.com/MonkHelios/Decapping-4N35-Optocoupler/blob/main/Images/red_laser.jpg">
 </p>
 
 <br>
